@@ -31,3 +31,5 @@ Para ejecutar las pruebas en tu entorno local, sigue estos sencillos pasos:
     Pytest buscará y ejecutará automáticamente todos los archivos y funciones de prueba dentro del proyecto, mostrando los resultados en la terminal.
 
 Este conjunto de pruebas valida el comportamiento de los endpoints de gestión de kits, asegurando que las respuestas de la API sean las esperadas según la documentación para las operaciones de creación, obtención, actualización y eliminación.
+
+# Proyecto Urban Grocers 
